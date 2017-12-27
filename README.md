@@ -2,7 +2,7 @@
 This exercise will help you get comfortable with the Enye git workflow
 
 # Instructions
-- Update this repo by taking the following steps:
+Update this repo by taking the following steps:
   1. create a folder in the root directory of this repo (use any method)
       - name it week2_{{your_first_name}}
   2. create a a file inside of this folder (use any method)
