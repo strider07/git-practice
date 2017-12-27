@@ -4,7 +4,7 @@ This exercise will help you get comfortable with the Enye git workflow
 # Instructions
 Update this repo by taking the following steps:
   1. Create a folder in the root directory of this repo (use any method)
-      - name it `week2_{{your_first_name}}``
+      - name it `week2_{{your_first_name}}`
   2. Create a a file inside of this folder (use any method)
       - name it `git_command_line_assessment_{{your_first_name}}.txt`
   3. In this text file, list 5 commands that you learned from week 1 and explain what they do in your own words
