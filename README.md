@@ -26,3 +26,10 @@ Update this repo by taking the following steps:
   * run `git status` - to see which files that you have changed
   * run `git add .` - to add all files
   * run `git commit -am "{{add_your_message_here}}"` - to add all files during a commit (meaning you add and commit in one step instead of two)
+
+### Advanced commands
+  * `git branch` - lists all the local branches
+  * `git remote -v` - list all the remote repos connected to your local repo (by default origin points to the git repo that your cloned from)
+  * `git checkout {name_of_branch}` - switches you to that branch
+  * `git checkout -b {name_of_branch}` - creates a new branch and switches you to that branch
+  * `git branch -d {name_of_branch}` - deletes the named branch
