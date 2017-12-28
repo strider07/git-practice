@@ -33,3 +33,4 @@ Update this repo by taking the following steps:
   * `git checkout {name_of_branch}` - switches you to that branch
   * `git checkout -b {name_of_branch}` - creates a new branch and switches you to that branch
   * `git branch -d {name_of_branch}` - deletes the named branch
+  * `git push origin -u {name_of_branch}` - creates a new branch in the remote repo
