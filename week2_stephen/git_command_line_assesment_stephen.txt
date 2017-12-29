@@ -1,0 +1,24 @@
+This are five commands that i learned from week 1.
+
+1. PWD: (print working directory)
+This command allows you to see the tree
+of directories leading to the current
+directory you are on.
+
+2. LS:
+This command shows a list of all folders
+and files on your current directory.
+
+3.MKDIR:
+this command allows you to create a new
+directory.
+
+4. Touch
+this command allows you to create a new
+file in a directory.
+
+5. Cd:
+This is the most important command when
+navigating. it is the command that lets
+git know that you what to change to a
+directory
