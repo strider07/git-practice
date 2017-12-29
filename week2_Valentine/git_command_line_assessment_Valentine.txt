@@ -1,0 +1,5 @@
+touch: (make file) This command Creates a new and empty file in the current working directory.
+mkdir: (make directory) creates a new and empty directory as a child directory in the current working directory.
+cd: (change directory) Changes the current working directory to a directory up or down the current working directory as specified in the command.
+ls: (list) displays files and directories in the current working directory.
+pwd: (print working directory) outputs the current working directory, showing also, its root and parent directories accordingly.
