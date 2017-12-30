@@ -22,10 +22,10 @@ Update this repo by taking the following steps:
   7. Once you have the confirmation, slack the link of you forked repo to __enye_admin__
 
 
-### Additional Commands
-  * run `git status` - to see which files that you have changed
-  * run `git add .` - to add all files
-  * run `git commit -am "{{add_your_message_here}}"` - to add all files during a commit (meaning you add and commit in one step instead of two)
+### Additional Useful Commands
+  * `git status` - to see which files that you have changed
+  * `git add .` - to add all files
+  * `git commit -am "{{add_your_message_here}}"` - to add all files during a commit (meaning you add and commit in one step instead of two)
 
 ### Advanced commands
   * `git branch` - lists all the local branches
