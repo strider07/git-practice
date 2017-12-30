@@ -1,0 +1,7 @@
+# 5 Commands in Command line
+
+The mkdir command is used to creates a new folder/directory in the working directory.
+The touch command creates a new file inside the working directory.
+The cp command copies files.
+The mv command moves and renames files.
+The sed command finds and replaces a text.
