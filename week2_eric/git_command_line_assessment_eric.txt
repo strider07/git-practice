@@ -1,0 +1,12 @@
+list of five command lines from week 1 and what they do:
+
+
+1. pwd :  This command prints or displays the working directory I am currently  on.
+
+2. ls: This one lists the directories and files in the current folder or directory.
+
+3. touch: This creates a new file with file format/extension given to it.
+
+4. git add filename.format: This adds the file in the staging area ready to commit.
+
+5. git checkout {{branch_name}}: This switches to a branch from a particular branch.
