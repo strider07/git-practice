@@ -1,0 +1,5 @@
+cd : this is used to navigate directly into a directory.
+mv : this is used to move a file into a directory.
+touch : this creates a file in a working directory.
+ls -a : lists all contents of a working directory, including hidden files and directories.
+pwd : this prints  the name of the working directory.
