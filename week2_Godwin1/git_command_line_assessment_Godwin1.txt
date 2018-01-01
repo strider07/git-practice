@@ -1,0 +1,6 @@
+pwd : This command prints the name of the directory (folder) one is currently working on. This directory is called working directory
+ls : This command is used to give a list of all the files and directories in a working directory.
+mkdir : Folders (directories) are created with this command .
+cp : This command is used to copy files and directories.
+rm : This command deletes files and directories.
+mv : This command is used to move files between directories.
